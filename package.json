@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/work-sap-design.vue3-waveui-ktmrl9in",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve o2a9GKYmeiFbZyJbNDLx --open"
+  },
+  "dependencies": {
+    "vue": "3.0.7",
+    "wave-ui": "next"
+  }
+}

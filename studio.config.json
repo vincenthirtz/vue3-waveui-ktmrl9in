@@ -1,0 +1,51 @@
+{
+  "packages": {
+    "menu": [
+      [
+        "Components",
+        [
+          "accordion",
+          "alert",
+          "badge",
+          "breadcrumbs",
+          "button",
+          "card",
+          "dialog",
+          "divider",
+          "drawer",
+          "icon",
+          "image",
+          "list",
+          "menu",
+          "notification",
+          "overlay",
+          "progress",
+          "rating",
+          "spinner",
+          "tabs",
+          "table",
+          "tag",
+          "timeline",
+          "toolbar",
+          "tooltip"
+        ]
+      ],
+      [
+        "Form elements",
+        [
+          "checkbox",
+          "checkboxes",
+          "input",
+          "form",
+          "radio",
+          "radios",
+          "select",
+          "slider",
+          "switch",
+          "textarea"
+        ]
+      ],
+      ["Dockit", ["story-helpers", "mdx-layout"]]
+    ]
+  }
+}
